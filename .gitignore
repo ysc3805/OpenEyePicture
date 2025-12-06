@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ipch
+*.pdb
+*.obj
+*.tlog
+*.log
+
+# Build folders
+Debug/
+Release/
+x64/
+ipch/
+
+# OpenCV DLL
+*.dll
+
+# Executables
+*.exe
+
+# Cache
+*.cache
+*.ilk
+*.ncb
+*.aps
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
